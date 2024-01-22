@@ -1,6 +1,6 @@
 $(document).ready(function () {
     const apiKey =
-        "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";
+        "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";
     const username = "johnpapa";
     let currentPage = 1;
     let repositoriesPerPage = 10;
